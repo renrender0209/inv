@@ -1,6 +1,7 @@
 [
 r"https://inv.nadeko.net/",
 r"https://yewtu.be/",
+r"https://invidious.nerdvpn.de/",
 r"https://invidious.einfachzocken.eu/",
 r"https://inv.zzls.xyz",
 r"https://yt.yoc.ovh",
