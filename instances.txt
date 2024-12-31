@@ -1,6 +1,6 @@
 [
 r"https://inv5.nadeko.net",
-r"https://youtube.privacyplz.org/",
+r"https://inv.nadeko.net",
 r"https://yewtu.be/",
 r"inv.nadeko.net",
 r"https://invidious.nerdvpn.de/",
