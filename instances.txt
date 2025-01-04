@@ -1,4 +1,5 @@
 [
+r"https://invidious.f5.si/",
 r"https://inv5.nadeko.net",
 r"https://inv.nadeko.net",
 r"https://yewtu.be/",
