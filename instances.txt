@@ -1,9 +1,10 @@
 [
 r"https://invidious.f5.si/",
+r"https://lekker.gay/",
 r"https://inv5.nadeko.net",
 r"https://inv.nadeko.net",
 r"https://yewtu.be/",
-r"inv.nadeko.net",
+r"https://inv.nadeko.net",
 r"https://invidious.nerdvpn.de/",
 r"https://invidious.einfachzocken.eu/",
 r"https://inv.zzls.xyz",
