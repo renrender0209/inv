@@ -1,6 +1,7 @@
 [
 r"https://invidious.f5.si/",
 r"https://lekker.gay/",
+r"https://pol1.iv.ggtyler.dev",
 r"https://nyc1.iv.ggtyler.dev",
 r"https://inv5.nadeko.net",
 r"https://inv.nadeko.net",
