@@ -1,11 +1,11 @@
-r"https://invidious.f5.si/",
+[
 r"https://lekker.gay/",
 r"https://pol1.iv.ggtyler.dev/",
 r"https://iv.melmac.space/",
 r"https://nyc1.iv.ggtyler.dev/",
 r"https://cal1.iv.ggtyler.dev/",
-r"https://inv.nadeko.net/",
 r"https://invidious.f5.si/",
+r"https://inv.nadeko.net/",
 r"https://yewtu.be/",
 r"https://invidious.nerdvpn.de/",
 r"https://invidious.einfachzocken.eu/",
@@ -32,3 +32,4 @@ r"https://invidious.fdn.fr/",
 r"https://inv.vern.cc/",
 r"https://invi.susurrando.com/",
 r"https://invidious.nerdvpn.de/"
+]
