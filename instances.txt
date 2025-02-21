@@ -1,5 +1,4 @@
 [
-r"https://lekker.gay/",
 r"https://pol1.iv.ggtyler.dev/",
 r"https://iv.melmac.space/",
 r"https://nyc1.iv.ggtyler.dev/",
