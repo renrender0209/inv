@@ -1,7 +1,9 @@
 [
+r"https://lekker.gay/",
 r"https://pol1.iv.ggtyler.dev/",
 r"https://iv.melmac.space/",
 r"https://nyc1.iv.ggtyler.dev/",
+r"https://cal1.iv.ggtyler.dev/",
 r"https://invidious.f5.si/",
 r"https://inv.nadeko.net/",
 r"https://yewtu.be/",
