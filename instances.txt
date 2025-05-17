@@ -1,5 +1,11 @@
 [
 r"https://inv.nadeko.net/",
+r"https://iv.duti.dev/",
+r"https://yewtu.be/",
+r"https://id.420129.xyz/",
+r"https://invidious.f5.si/",
+r"https://invidious.nerdvpn.de/",
+r"https://invidious.tiekoetter.com/",
 r"https://lekker.gay/",
 r"https://lekker.gay/", 
 r"https://nyc1.iv.ggtyler.dev/", 
