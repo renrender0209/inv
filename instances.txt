@@ -1,4 +1,5 @@
 [
+r"https://inv.nadeko.net/",
 r"https://lekker.gay/",
 r"https://lekker.gay/", 
 r"https://nyc1.iv.ggtyler.dev/", 
