@@ -1,4 +1,5 @@
 [
+r"https://clover-pitch-position.glitch.me/",
 r"https://inv.nadeko.net/",
 r"https://iv.duti.dev/",
 r"https://yewtu.be/",
