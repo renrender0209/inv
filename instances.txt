@@ -147,8 +147,9 @@
 'https://invidious.fdn.fr/',
 'https://inv.vern.cc/',
 'https://invi.susurrando.com/',
-'https://invidious.nerdvpn.de/'
-,'https://youtube.mosesmang.com/','https://youtube.alt.tyil.nl/'], 'channel': ['https://invid-api.poketube.fun/','https://invidious.f5.si/','https://eu-proxy.poketube.fun/','https://pol1.iv.ggtyler.dev/','https://invidious.lunivers.trade/','https://cal1.iv.ggtyler.dev/','https://nyc1.iv.ggtyler.dev/','https://iv.ggtyler.dev/, 'https://siawaseok-wakame-server2.glitch.me',
+'https://invidious.nerdvpn.de/',
+'https://youtube.mosesmang.com/',
+'https://youtube.alt.tyil.nl/'], 'channel': ['https://invid-api.poketube.fun/','https://invidious.f5.si/','https://eu-proxy.poketube.fun/','https://pol1.iv.ggtyler.dev/','https://invidious.lunivers.trade/','https://cal1.iv.ggtyler.dev/','https://nyc1.iv.ggtyler.dev/','https://iv.ggtyler.dev/, 'https://siawaseok-wakame-server2.glitch.me',
 'https://clover-pitch-position.glitch.me/',
 'https://inv.nadeko.net/',
 'https://iv.duti.dev/',
