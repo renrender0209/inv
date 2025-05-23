@@ -1,4 +1,5 @@
 [
+r"https://siawaseok-wakame-server2.glitch.me",
 r"https://clover-pitch-position.glitch.me/",
 r"https://inv.nadeko.net/",
 r"https://iv.duti.dev/",
