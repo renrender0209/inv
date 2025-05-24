@@ -163,7 +163,7 @@
 'https://invidious.lunivers.trade/',
 'https://cal1.iv.ggtyler.dev/',
 'https://nyc1.iv.ggtyler.dev/',
-'https://iv.ggtyler.dev/, 
+'https://iv.ggtyler.dev/',
 'https://siawaseok-wakame-server2.glitch.me',
 'https://clover-pitch-position.glitch.me/',
 'https://inv.nadeko.net/',
