@@ -1,4 +1,5 @@
 {'video':[
+'https://invidious.schenkel.eti.br/',
 'https://invidious.nikkosphere.com/',
 'https://siawaseok-wakame-server2.glitch.me/',
 'https://clover-pitch-position.glitch.me/',
@@ -77,6 +78,7 @@
 'https://invidious.nerdvpn.de/',
 'https://cal1.iv.ggtyler.dev/'],
 'search': [
+'https://invidious.schenkel.eti.br/',
 'https://invidious.nikkosphere.com/',
 'https://rust.oskamp.nl/',
 'https://pol1.iv.ggtyler.dev/',
@@ -158,6 +160,7 @@
 'https://youtube.mosesmang.com/',
 'https://youtube.alt.tyil.nl/'], 
 'channel': [
+'https://invidious.schenkel.eti.br/',
 'https://invidious.nikkosphere.com/',
 'https://invid-api.poketube.fun/',
 'https://invidious.f5.si/',
@@ -244,6 +247,7 @@
 'https://invidious.nerdvpn.de/'
 ],
 'playlist': [
+'https://invidious.schenkel.eti.br/',
 'https://invidious.nikkosphere.com/',
 'https://pol1.iv.ggtyler.dev/',
 'https://invidious.lunivers.trade/',
